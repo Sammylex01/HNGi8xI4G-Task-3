@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserInput</string>
+    <string name="your_input">Enter Input</string>
+
+    <string name="hyperlink">Visit to learn more about HNG Internship at <a href="https://hng.tech">https://hng.tech</a></string>
+    <string name="display">Display</string>
+</resources>
